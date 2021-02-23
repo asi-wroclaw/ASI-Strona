@@ -1,0 +1,5 @@
+---
+title: Wyjazd szkoleniowy już za nami!
+date: 2014-07-16 07:45:31 +0200
+---
+Na weekend 11-13 lipca Akademickie Stowarzyszenie Informatyczne zorganizowało wyjazd szkoleniowy do Szklarskiej Poręby. Oprócz wiadomej, rekreacyjnej funkcji uczestnicy szkolenia brali udział w paru szkoleniach, w tym między innymi z podstaw programowania czy obsługi frameworka Padrino. Z racji, że w piątek do pensjonatu z Wrocławia dotarliśmy trochę późno, tego dnia odbył się tylko grill integracyjny. W sobotę rano ruszyliśmy zwiedzać Karkonosze, stawiając sobie za cel Harrachov, po drodze zdobywając szczyt Szrenicy. Zmęczeni wróciliśmy wieczorem, po czym braliśmy udział w szkoleniach oraz kolejnym ognisku. Ostatniego dnia odbyły się pozostałe szkolenia, po czym część uczestników wyjazdu poszła zwiedzać miasto, a reszta została w schronisku by integrować się dalej przy grach planszowych oraz karcianych, lub po prostu odpocząć po poprzednim dniu pełnym wrażeń. Po powrocie uczestnicy wrazili jednogłośną chęć kolejnego wyjazdu, więc zdecydowanie było warto!
